@@ -18,11 +18,12 @@ if ('serviceWorker' in navigator) {
 async function initQuiz() {
     try {
         const response = await fetch('questions.json');
+        if (!response.ok) throw new Error("Fichier non trouvé"); // Ajout de sécurité
         questions = await response.json();
-        // Mélanger les questions si besoin : questions.sort(() => Math.random() - 0.5);
         showQuestion();
     } catch (error) {
-        questionText.innerText = "Erreur de chargement des questions.";
+        console.error(error); // Cela affichera l'erreur précise dans la console F12
+        questionText.innerText = "Erreur : " + error.message;
     }
 }
 
