@@ -24,15 +24,22 @@
         </header>
 
         <main id="quiz-container">
-            <div id="question-card">
-                <span id="chapter-name">Chapitre</span>
-                <h2 id="question-text">Chargement du quiz...</h2>
-                <div id="options-container" class="options-grid"></div>
-            </div>
-            
-            <div id="feedback" class="hidden"></div>
-            <button id="next-btn" class="hidden">Question suivante</button>
-        </main>
+    <div id="welcome-screen">
+        <h2>Prêt pour l'entraînement ?</h2>
+        <p>191 questions pour réussir votre examen.</p>
+        <button id="start-btn">Démarrer le Quiz</button>
+    </div>
+
+    <div id="quiz-content" class="hidden">
+        <div id="question-card">
+            <span id="chapter-name">Chapitre</span>
+            <h2 id="question-text">Chargement du quiz...</h2>
+            <div id="options-container" class="options-grid"></div>
+        </div>
+        <div id="feedback" class="hidden"></div>
+        <button id="next-btn" class="hidden">Question suivante</button>
+    </div>
+</main>
 
         <footer>
             <p>🇬🇫 Made in Guyane Française by Eric</p>
