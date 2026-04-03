@@ -9,6 +9,9 @@ const feedback = document.getElementById('feedback');
 const nextBtn = document.getElementById('next-btn');
 const progressBar = document.getElementById('progress-bar');
 const stats = document.getElementById('stats');
+const startBtn = document.getElementById('start-btn');
+const welcomeScreen = document.getElementById('welcome-screen');
+const quizContent = document.getElementById('quiz-content');
 
 // Enregistrement du Service Worker pour le mode PWA
 if ('serviceWorker' in navigator) {
@@ -26,7 +29,10 @@ async function initQuiz() {
     }
 }
 
-function showQuestion() {
+function sstartBtn.onclick = () => {
+            welcomeScreen.classList.add('hidden');
+            quizContent.classList.remove('hidden');
+            showQuestion(); {
     const q = questions[currentIndex];
     chapterName.innerText = q.chapter;
     questionText.innerText = q.question;
