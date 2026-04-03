@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Citoyenneté FR</title>
+    
+    <meta name="theme-color" content="#000091">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+    <link rel="manifest" href="manifest.json">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <h1>🇫🇷 Examen Civique</h1>
+            <div class="progress-container">
+                <div id="progress-bar"></div>
+            </div>
+            <p id="stats">Question 1 / 191</p>
+        </header>
+
+        <main id="quiz-container">
+            <div id="question-card">
+                <span id="chapter-name">Chapitre</span>
+                <h2 id="question-text">Chargement du quiz...</h2>
+                <div id="options-container" class="options-grid"></div>
+            </div>
+            
+            <div id="feedback" class="hidden"></div>
+            <button id="next-btn" class="hidden">Question suivante</button>
+        </main>
+
+        <footer>
+            <p>🇬🇫 Made in Guyane Française by Eric</p>
+        </footer>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

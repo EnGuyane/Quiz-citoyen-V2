@@ -1,0 +1,1530 @@
+[
+  {
+    "id": 1,
+    "chapter": "Principes et valeurs de la République",
+    "question": "À quoi correspond la date du 14 juillet ?",
+    "options": ["La fête nationale", "L'armistice de 1918", "La création de l'UE", "La naissance de Marianne"],
+    "correctAnswer": 0,
+    "context": "Le 14 juillet commémore la prise de la Bastille (1789) et la Fête de la Fédération (1790)."
+  },
+  {
+    "id": 2,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quel est l’un des symboles de la République française ?",
+    "options": ["Le lion", "Le drapeau tricolore", "L'aigle impérial", "Le lys"],
+    "correctAnswer": 1,
+    "context": "Le drapeau bleu, blanc, rouge est l'emblème national officiel défini par la Constitution."
+  },
+  {
+    "id": 3,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Le principe d’égalité signifie que :",
+    "options": ["Tout le monde a le même salaire", "La loi est la même pour tous", "Tout le monde doit penser pareil", "Les impôts sont les mêmes pour tous"],
+    "correctAnswer": 1,
+    "context": "L'égalité devant la loi est un pilier de la République, sans distinction d'origine ou de religion."
+  },
+  {
+    "id": 4,
+    "chapter": "Principes et valeurs de la République",
+    "question": "'Liberté, égalité, fraternité', c’est :",
+    "options": ["Un chant", "La devise de la France", "Une loi", "Le nom d'un monument"],
+    "correctAnswer": 1,
+    "context": "C'est la devise officielle de la République française, inscrite au fronton des mairies."
+  },
+  {
+    "id": 5,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Peut-on insulter quelqu’un parce qu’il est différent ?",
+    "options": ["Oui, c'est la liberté", "Non, c'est un délit", "Seulement sur internet", "Oui, si c'est une blague"],
+    "correctAnswer": 1,
+    "context": "Les propos discriminatoires sont punis par la loi car ils portent atteinte à la dignité humaine."
+  },
+  {
+    "id": 6,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Certains métiers peuvent-ils être réservés aux hommes ?",
+    "options": ["Oui, les métiers physiques", "Non, l'accès est égal", "Oui, dans l'armée", "Seulement dans le privé"],
+    "correctAnswer": 1,
+    "context": "L'égalité professionnelle homme-femme interdit toute discrimination à l'embauche selon le sexe."
+  },
+  {
+    "id": 7,
+    "chapter": "Principes et valeurs de la République",
+    "question": "De quand date la Constitution de la Ve République ?",
+    "options": ["1789", "1945", "1958", "2000"],
+    "correctAnswer": 2,
+    "context": "La Constitution actuelle a été adoptée le 4 octobre 1958 sous l'impulsion de Charles de Gaulle."
+  },
+  {
+    "id": 8,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Le régime de la France est :",
+    "options": ["Une monarchie", "Un empire", "Une République démocratique", "Une fédération"],
+    "correctAnswer": 2,
+    "context": "La France est une République où le pouvoir est exercé par des représentants élus."
+  },
+  {
+    "id": 9,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Qui représente officiellement la République française ?",
+    "options": ["Jeanne d'Arc", "Marianne", "Louis XIV", "Napoléon"],
+    "correctAnswer": 1,
+    "context": "Marianne est l'allégorie de la République, présente dans les mairies et sur les timbres."
+  },
+  {
+    "id": 10,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Où peut-on voir la devise de la République ?",
+    "options": ["Sur les églises", "Sur les mairies", "Sur les stades", "Sur les bus"],
+    "correctAnswer": 1,
+    "context": "La devise 'Liberté, Égalité, Fraternité' est inscrite au fronton des édifices publics."
+  },
+  {
+    "id": 11,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quels sont les symboles officiels de la France ?",
+    "options": ["Drapeau, Hymne, Devise", "Tour Eiffel, Baguette", "Coq, Fromage", "Paris, Mode"],
+    "correctAnswer": 0,
+    "context": "Les symboles officiels sont le drapeau tricolore, la Marseillaise et la devise."
+  },
+  {
+    "id": 12,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Qu’est-ce que l’égalité ?",
+    "options": ["Avoir le même âge", "Mêmes droits et devoirs", "Avoir la même taille", "Vivre dans la même ville"],
+    "correctAnswer": 1,
+    "context": "L'égalité républicaine signifie que tous les citoyens sont égaux devant la loi."
+  },
+  {
+    "id": 13,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Que signifie la liberté ?",
+    "options": ["Tout est permis", "Faire tout sans nuire à autrui", "Ne pas payer d'impôts", "Ignorer les lois"],
+    "correctAnswer": 1,
+    "context": "La liberté est le droit de faire tout ce qui n'est pas interdit par la loi et ne gêne pas les autres."
+  },
+  {
+    "id": 14,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Que signifie 'fraternité' ?",
+    "options": ["La rivalité", "La solidarité", "La solitude", "L'indifférence"],
+    "correctAnswer": 1,
+    "context": "La fraternité est le lien de solidarité qui unit tous les citoyens entre eux."
+  },
+  {
+    "id": 15,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quel animal est un symbole de la France ?",
+    "options": ["L'aigle", "Le coq", "Le cheval", "Le loup"],
+    "correctAnswer": 1,
+    "context": "Le coq gaulois est un symbole traditionnel, souvent utilisé sur les maillots sportifs."
+  },
+  {
+    "id": 16,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quel est l’un des rôles des associations ?",
+    "options": ["Faire des profits", "Agir pour l’intérêt général", "Voter des lois", "Remplacer la police"],
+    "correctAnswer": 1,
+    "context": "Les associations loi 1901 permettent l'engagement citoyen sans but lucratif."
+  },
+  {
+    "id": 17,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quel est le nom de l'hymne national ?",
+    "options": ["Le Chant du départ", "La Marseillaise", "Le Temps des cerises", "L'Ode à la joie"],
+    "correctAnswer": 1,
+    "context": "La Marseillaise a été écrite par Rouget de Lisle en 1792."
+  },
+  {
+    "id": 18,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quel symbole est tricolore ?",
+    "options": ["La devise", "Le drapeau", "Marianne", "L'hymne"],
+    "correctAnswer": 1,
+    "context": "Le drapeau français est composé de bleu, de blanc et de rouge."
+  },
+  {
+    "id": 19,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quelle est la date de la fête nationale ?",
+    "options": ["1er mai", "14 juillet", "11 novembre", "25 décembre"],
+    "correctAnswer": 1,
+    "context": "Le 14 juillet célèbre la Nation française chaque année."
+  },
+  {
+    "id": 20,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quelle est la devise de la République ?",
+    "options": ["Paix, Travail, Justice", "Liberté, Égalité, Fraternité", "Force et Honneur", "Unité et Progrès"],
+    "correctAnswer": 1,
+    "context": "Liberté, Égalité, Fraternité est le socle des valeurs françaises."
+  },
+  {
+    "id": 21,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quelle est la langue officielle de la France ?",
+    "options": ["L'anglais", "L'espagnol", "Le français", "L'allemand"],
+    "correctAnswer": 2,
+    "context": "Le français est la langue de la République selon la Constitution."
+  },
+  {
+    "id": 22,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quelle est la place du français dans la République ?",
+    "options": ["Facultative", "Langue de l'administration et du droit", "Secondaire après l'anglais", "Interdite à l'école"],
+    "correctAnswer": 1,
+    "context": "La langue française assure l'unité nationale et l'accès égal au droit."
+  },
+  {
+    "id": 23,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quelle liberté permet d’exprimer ses idées ?",
+    "options": ["Liberté de culte", "Liberté d'expression", "Liberté de réunion", "Liberté d'association"],
+    "correctAnswer": 1,
+    "context": "La liberté d'expression est un droit fondamental en démocratie."
+  },
+  {
+    "id": 24,
+    "chapter": "Principes et valeurs de la République",
+    "question": "La liberté d'expression est-elle limitée ?",
+    "options": ["Non, jamais", "Oui, par le respect d'autrui", "Seulement à l'école", "Oui, par le gouvernement"],
+    "correctAnswer": 1,
+    "context": "Elle est limitée par la loi pour éviter l'injure ou l'incitation à la haine."
+  },
+  {
+    "id": 25,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Quelles sont les couleurs du drapeau français ?",
+    "options": ["Rouge, Jaune, Vert", "Bleu, Blanc, Rouge", "Noir, Jaune, Rouge", "Bleu, Jaune, Rouge"],
+    "correctAnswer": 1,
+    "context": "Les trois couleurs sont le bleu, le blanc et le rouge."
+  },
+  {
+    "id": 26,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Qu'est-ce que la Marseillaise ?",
+    "options": ["Une danse", "L'hymne national", "Une ville", "Une station de métro"],
+    "correctAnswer": 1,
+    "context": "C'est le chant patriotique officiel de la France."
+  },
+  {
+    "id": 27,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Que fait-on sur les Champs Élysées le 14 juillet ?",
+    "options": ["Une braderie", "Un défilé militaire", "Un concert de rock", "Une course de vélo"],
+    "correctAnswer": 1,
+    "context": "Un grand défilé militaire a lieu chaque année en présence du Président."
+  },
+  {
+    "id": 28,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Qui est Marianne ?",
+    "options": ["Une reine", "Une allégorie de la République", "La femme du Président", "Une sainte"],
+    "correctAnswer": 1,
+    "context": "Marianne incarne les valeurs républicaines de liberté et de raison."
+  },
+  {
+    "id": 29,
+    "chapter": "Principes et valeurs de la République",
+    "question": "Peut-on changer librement de religion ?",
+    "options": ["Non, c'est interdit", "Oui, c'est une liberté", "Seulement avec autorisation", "Oui, si on paye"],
+    "correctAnswer": 1,
+    "context": "La liberté de conscience garantit le droit de choisir ou de changer de foi."
+  },
+  {
+    "id": 30,
+    "chapter": "Laïcité",
+    "question": "La France est une République indivisible, ..., démocratique et sociale.",
+    "options": ["Monarchique", "Laïque", "Religieuse", "Militaire"],
+    "correctAnswer": 1,
+    "context": "Le caractère laïque de la République est inscrit à l'Article 1er de la Constitution."
+  },
+  {
+    "id": 31,
+    "chapter": "Laïcité",
+    "question": "En quelle année la loi de séparation Églises/État a-t-elle été votée ?",
+    "options": ["1789", "1804", "1905", "1958"],
+    "correctAnswer": 2,
+    "context": "La loi du 9 décembre 1905 fonde la laïcité française moderne."
+  },
+  {
+    "id": 32,
+    "chapter": "Laïcité",
+    "question": "Que permet le principe de laïcité ?",
+    "options": ["L'athéisme obligatoire", "La neutralité de l'État et la liberté de culte", "La domination d'une religion", "L'interdiction des églises"],
+    "correctAnswer": 1,
+    "context": "L'État ne privilégie aucune religion et protège la liberté de croire ou non."
+  },
+  {
+    "id": 33,
+    "chapter": "Laïcité",
+    "question": "Quel droit est garanti par la laïcité ?",
+    "options": ["Droit de vote", "Liberté de conscience", "Droit au travail", "Droit de propriété"],
+    "correctAnswer": 1,
+    "context": "Elle assure que personne n'est inquiété pour ses opinions religieuses."
+  },
+  {
+    "id": 34,
+    "chapter": "Laïcité",
+    "question": "Pourquoi la laïcité doit être respectée à l'école ?",
+    "options": ["Pour faire des économies", "Pour protéger les élèves de toute pression", "Parce que c'est une mode", "Pour interdire l'histoire"],
+    "correctAnswer": 1,
+    "context": "L'école publique doit être un lieu neutre de transmission du savoir."
+  },
+  {
+    "id": 35,
+    "chapter": "Laïcité",
+    "question": "Qu'est-ce que la laïcité ?",
+    "options": ["La séparation Église/État", "L'interdiction des cultes", "Une religion d'État", "Une loi sur l'école uniquement"],
+    "correctAnswer": 0,
+    "context": "C'est le principe qui rend les affaires religieuses indépendantes du politique."
+  },
+  {
+    "id": 36,
+    "chapter": "Laïcité",
+    "question": "Un enfant peut-il refuser l'école pour raison religieuse ?",
+    "options": ["Oui", "Non, l'école est obligatoire", "Seulement le vendredi", "Seulement le dimanche"],
+    "correctAnswer": 1,
+    "context": "L'instruction obligatoire prévaut sur les prescriptions religieuses familiales."
+  },
+  {
+    "id": 37,
+    "chapter": "Laïcité",
+    "question": "A-t-on le droit de ne pas croire en une religion ?",
+    "options": ["Non", "Oui, c'est un droit", "C'est passible d'une amende", "Seulement si on est étranger"],
+    "correctAnswer": 1,
+    "context": "La République protège aussi bien les croyants que les incroyants."
+  },
+  {
+    "id": 38,
+    "chapter": "Système institutionnel",
+    "question": "Qui nomme le Premier ministre ?",
+    "options": ["Les députés", "Le Président de la République", "Le peuple", "Le maire"],
+    "correctAnswer": 1,
+    "context": "C'est une prérogative du Président selon la Constitution."
+  },
+  {
+    "id": 39,
+    "chapter": "Système institutionnel",
+    "question": "Le Parlement est composé :",
+    "options": ["Maires et Préfets", "Assemblée nationale et Sénat", "Députés et Ministres", "Juges et Avocats"],
+    "correctAnswer": 1,
+    "context": "Le Parlement vote les lois et comprend deux chambres."
+  },
+  {
+    "id": 40,
+    "chapter": "Système institutionnel",
+    "question": "Qu'est-ce que le pouvoir exécutif ?",
+    "options": ["Faire les lois", "Faire appliquer les lois", "Juger les coupables", "Écrire la presse"],
+    "correctAnswer": 1,
+    "context": "Le pouvoir exécutif dirige l'administration et exécute les lois."
+  },
+  {
+    "id": 41,
+    "chapter": "Système institutionnel",
+    "question": "Où les dirigeants sont-ils élus par les citoyens ?",
+    "options": ["Dans une dictature", "Dans une démocratie", "Dans une monarchie absolue", "Dans une colonie"],
+    "correctAnswer": 1,
+    "context": "L'élection est la base de la légitimité démocratique."
+  },
+  {
+    "id": 42,
+    "chapter": "Système institutionnel",
+    "question": "A-t-on le droit de ne pas respecter une loi ?",
+    "options": ["Oui, si on n'est pas d'accord", "Non, elle s'impose à tous", "Seulement si on est riche", "Oui, la nuit"],
+    "correctAnswer": 1,
+    "context": "La loi est l'expression de la volonté générale et doit être suivie par tous."
+  },
+  {
+    "id": 43,
+    "chapter": "Système institutionnel",
+    "question": "Qui doit respecter la loi ?",
+    "options": ["Seulement les citoyens", "Seulement les étrangers", "Tout le monde", "Seulement les jeunes"],
+    "correctAnswer": 2,
+    "context": "Nul n'est au-dessus de la loi dans un État de droit."
+  },
+  {
+    "id": 44,
+    "chapter": "Système institutionnel",
+    "question": "Quel est le rôle de l'autorité judiciaire ?",
+    "options": ["Faire des lois", "Trancher les litiges et appliquer la loi", "Diriger le pays", "Gérer les hôpitaux"],
+    "correctAnswer": 1,
+    "context": "La justice veille à l'application correcte des textes de loi."
+  },
+  {
+    "id": 45,
+    "chapter": "Système institutionnel",
+    "question": "Quel pouvoir détient un juge ?",
+    "options": ["Pouvoir législatif", "Pouvoir de sanctionner et protéger les droits", "Pouvoir de créer des impôts", "Pouvoir d'élire le Président"],
+    "correctAnswer": 1,
+    "context": "Le juge garantit le respect des libertés individuelles."
+  },
+  {
+    "id": 46,
+    "chapter": "Système institutionnel",
+    "question": "L'autorité judiciaire est exercée par :",
+    "options": ["Les députés", "Les magistrats", "Les ministres", "Les policiers"],
+    "correctAnswer": 1,
+    "context": "Les juges et procureurs exercent la mission de justice."
+  },
+  {
+    "id": 47,
+    "chapter": "Système institutionnel",
+    "question": "Si un ministre ne respecte pas la loi :",
+    "options": ["Rien ne se passe", "Il peut être poursuivi en justice", "Il est renvoyé sans procès", "Le pays s'arrête"],
+    "correctAnswer": 1,
+    "context": "Les ministres sont responsables devant la loi."
+  },
+  {
+    "id": 48,
+    "chapter": "Système institutionnel",
+    "question": "Qui est élu lors des législatives ?",
+    "options": ["Le Président", "Les députés", "Les maires", "Les sénateurs"],
+    "correctAnswer": 1,
+    "context": "Les législatives désignent les 577 membres de l'Assemblée nationale."
+  },
+  {
+    "id": 49,
+    "chapter": "Système institutionnel",
+    "question": "Combien de députés composent l’Assemblée nationale ?",
+    "options": ["100", "348", "577", "1000"],
+    "correctAnswer": 2,
+    "context": "577 députés siègent au Palais Bourbon pour voter les lois."
+  },
+  {
+    "id": 50,
+    "chapter": "Système institutionnel",
+    "question": "Quand sont élus les sénateurs ?",
+    "options": ["Tous les ans", "Tous les 5 ans", "Tous les 6 ans", "Tous les 10 ans"],
+    "correctAnswer": 2,
+    "context": "Le Sénat est renouvelé par moitié tous les 3 ans pour des mandats de 6 ans."
+  },
+  {
+    "id": 51,
+    "chapter": "Système institutionnel",
+    "question": "Qui est élu lors des municipales ?",
+    "options": ["Le Président", "Le Préfet", "Les conseillers municipaux", "Les députés"],
+    "correctAnswer": 2,
+    "context": "Ces élus locaux gèrent les affaires de la commune."
+  },
+  {
+    "id": 52,
+    "chapter": "Système institutionnel",
+    "question": "Qui est élu lors des présidentielles ?",
+    "options": ["Le Premier ministre", "Le Président de la République", "Les maires", "Le Roi"],
+    "correctAnswer": 1,
+    "context": "C'est l'élection majeure au suffrage universel direct en France."
+  },
+  {
+    "id": 53,
+    "chapter": "Système institutionnel",
+    "question": "À quel âge a-t-on le droit de voter ?",
+    "options": ["16 ans", "18 ans", "21 ans", "La naissance"],
+    "correctAnswer": 1,
+    "context": "Le droit de vote est lié à la majorité civile (18 ans)."
+  },
+  {
+    "id": 54,
+    "chapter": "Système institutionnel",
+    "question": "Pour combien de temps est élu le Président ?",
+    "options": ["4 ans", "5 ans", "7 ans", "À vie"],
+    "correctAnswer": 1,
+    "context": "Le mandat présidentiel est de 5 ans (le quinquennat)."
+  },
+  {
+    "id": 55,
+    "chapter": "Système institutionnel",
+    "question": "Pour combien de temps sont élus les députés ?",
+    "options": ["2 ans", "5 ans", "6 ans", "9 ans"],
+    "correctAnswer": 1,
+    "context": "Leur mandat dure 5 ans, sauf en cas de dissolution de l'Assemblée."
+  },
+  {
+    "id": 56,
+    "chapter": "Système institutionnel",
+    "question": "Pour combien de temps sont élus les sénateurs ?",
+    "options": ["5 ans", "6 ans", "7 ans", "8 ans"],
+    "correctAnswer": 1,
+    "context": "Leur mandat dure 6 ans pour assurer la stabilité législative."
+  },
+  {
+    "id": 57,
+    "chapter": "Système institutionnel",
+    "question": "Qui possède le pouvoir exécutif ?",
+    "options": ["Les juges", "Les députés", "Le Président et le Gouvernement", "Les policiers"],
+    "correctAnswer": 2,
+    "context": "C'est le pouvoir qui exécute les lois et dirige l'État."
+  },
+  {
+    "id": 58,
+    "chapter": "Système institutionnel",
+    "question": "Quelle condition pour voter aux élections nationales ?",
+    "options": ["Être riche", "Être français", "Avoir fait l'armée", "Avoir un diplôme"],
+    "correctAnswer": 1,
+    "context": "Il faut être citoyen français et inscrit sur les listes électorales."
+  },
+  {
+    "id": 59,
+    "chapter": "Système institutionnel",
+    "question": "Qui peut voter aux élections en France ?",
+    "options": ["Tous les résidents", "Les citoyens français majeurs", "Seulement les hommes", "Seulement les actifs"],
+    "correctAnswer": 1,
+    "context": "Le droit de vote appartient à tous les citoyens français de plus de 18 ans."
+  },
+  {
+    "id": 60,
+    "chapter": "Système institutionnel",
+    "question": "Que signifie « suffrage universel » ?",
+    "options": ["Droit de vote pour tous les citoyens", "Droit de vote mondial", "Droit de vote par internet", "Vote par les délégués"],
+    "correctAnswer": 0,
+    "context": "Le droit de vote n'est pas restreint par la richesse ou le rang social."
+  },
+  {
+    "id": 61,
+    "chapter": "Système institutionnel",
+    "question": "Concernant les partis politiques :",
+    "options": ["Ils sont interdits", "Ils concourent à l'expression du suffrage", "Ils sont gérés par la police", "Il n'y en a qu'un seul"],
+    "correctAnswer": 1,
+    "context": "Le multipartisme est essentiel au pluralisme démocratique."
+  },
+  {
+    "id": 62,
+    "chapter": "Système institutionnel",
+    "question": "Quel est le rôle des députés ?",
+    "options": ["Nettoyer les rues", "Voter les lois et contrôler le gouvernement", "Être juge", "Commander l'armée"],
+    "correctAnswer": 1,
+    "context": "Ils représentent le peuple à l'Assemblée nationale."
+  },
+  {
+    "id": 63,
+    "chapter": "Système institutionnel",
+    "question": "Quels sont les trois pouvoirs concernés par la séparation ?",
+    "options": ["Force, Sagesse, Courage", "Législatif, Exécutif, Judiciaire", "Paris, Lyon, Marseille", "Armée, Police, École"],
+    "correctAnswer": 1,
+    "context": "Cette séparation évite qu'une seule personne ait tous les pouvoirs."
+  },
+  {
+    "id": 64,
+    "chapter": "Système institutionnel",
+    "question": "Qui possède le pouvoir législatif ?",
+    "options": ["Le Président", "Le Parlement", "Le Préfet", "Les tribunaux"],
+    "correctAnswer": 1,
+    "context": "Le Parlement (Assemblée + Sénat) détient le pouvoir de voter les lois."
+  },
+  {
+    "id": 65,
+    "chapter": "Système institutionnel",
+    "question": "Qui sanctionne l'auteur d'un vol ?",
+    "options": ["Le Maire", "L'autorité judiciaire (tribunal)", "Le Député", "Le Ministre"],
+    "correctAnswer": 1,
+    "context": "C'est la mission des tribunaux pénaux."
+  },
+  {
+    "id": 66,
+    "chapter": "Système institutionnel",
+    "question": "Qui élit les députés ?",
+    "options": ["Le Président", "Les citoyens français", "Les sénateurs", "Les juges"],
+    "correctAnswer": 1,
+    "context": "Ils sont élus au suffrage universel direct lors des législatives."
+  },
+  {
+    "id": 67,
+    "chapter": "Système institutionnel",
+    "question": "Qui vote les lois ?",
+    "options": ["Le Président seul", "Le Parlement", "La Police", "La Presse"],
+    "correctAnswer": 1,
+    "context": "Le Parlement discute et adopte les textes de loi."
+  },
+  {
+    "id": 68,
+    "chapter": "Système institutionnel",
+    "question": "Qui réside au palais de l'Élysée ?",
+    "options": ["Le Premier ministre", "Le Président de la République", "Le Roi", "Le Préfet de Paris"],
+    "correctAnswer": 1,
+    "context": "L'Élysée est le siège de la Présidence française."
+  },
+  {
+    "id": 69,
+    "chapter": "Système institutionnel",
+    "question": "Combien y a-t-il de départements en France ?",
+    "options": ["13", "95", "101", "35000"],
+    "correctAnswer": 2,
+    "context": "On compte 96 départements en métropole et 5 outre-mer."
+  },
+  {
+    "id": 70,
+    "chapter": "Système institutionnel",
+    "question": "Qui représente l'État dans un département ?",
+    "options": ["Le Maire", "Le Préfet", "Le Député", "Le Président"],
+    "correctAnswer": 1,
+    "context": "Le préfet assure l'ordre public et le relais des politiques nationales."
+  },
+  {
+    "id": 71,
+    "chapter": "Système institutionnel",
+    "question": "Qui dirige la commune ?",
+    "options": ["Le Préfet", "Le Maire", "Le Président", "Le Commissaire"],
+    "correctAnswer": 1,
+    "context": "Le maire est élu par les conseillers municipaux pour gérer la ville."
+  },
+  {
+    "id": 72,
+    "chapter": "Système institutionnel",
+    "question": "Est-ce que le Président a tous les pouvoirs ?",
+    "options": ["Oui", "Non, les pouvoirs sont séparés", "Seulement le dimanche", "Oui, s'il est populaire"],
+    "correctAnswer": 1,
+    "context": "La Constitution limite et encadre l'action du Président."
+  },
+  {
+    "id": 73,
+    "chapter": "Système institutionnel",
+    "question": "Qui est le préfet ?",
+    "options": ["Un élu", "Un haut fonctionnaire nommé par l'État", "Un chef de police", "Un juge"],
+    "correctAnswer": 1,
+    "context": "Il est le représentant de l'autorité centrale au niveau local."
+  },
+  {
+    "id": 74,
+    "chapter": "Système institutionnel",
+    "question": "Quel est le rôle du Parlement ?",
+    "options": ["Juger les gens", "Voter les lois et contrôler le gouvernement", "Élire le Président", "Diriger la mairie"],
+    "correctAnswer": 1,
+    "context": "C'est l'organe du pouvoir législatif."
+  },
+  {
+    "id": 75,
+    "chapter": "Système institutionnel",
+    "question": "Quel est le régime politique actuel ?",
+    "options": ["IVe République", "Ve République", "Monarchie parlementaire", "Empire"],
+    "correctAnswer": 1,
+    "context": "Nous sommes sous la Ve République depuis 1958."
+  },
+  {
+    "id": 76,
+    "chapter": "Système institutionnel",
+    "question": "Combien d'États dans l'UE au 1er janvier 2025 ?",
+    "options": ["12", "25", "27", "30"],
+    "correctAnswer": 2,
+    "context": "L'Union européenne regroupe 27 pays membres."
+  },
+  {
+    "id": 77,
+    "chapter": "Système institutionnel",
+    "question": "Quel État n'est pas membre de l'UE ?",
+    "options": ["Italie", "Allemagne", "Suisse", "Espagne"],
+    "correctAnswer": 2,
+    "context": "La Suisse n'a jamais intégré l'Union européenne."
+  },
+  {
+    "id": 78,
+    "chapter": "Système institutionnel",
+    "question": "Condition pour voter aux européennes ?",
+    "options": ["Être français uniquement", "Être citoyen de l'Union européenne", "Payer l'ISF", "Être bilingue"],
+    "correctAnswer": 1,
+    "context": "Tout citoyen de l'UE peut voter pour ses représentants au Parlement européen."
+  },
+  {
+    "id": 79,
+    "chapter": "Système institutionnel",
+    "question": "À quelle fréquence les européennes ont-elles lieu ?",
+    "options": ["Tous les ans", "Tous les 4 ans", "Tous les 5 ans", "Tous les 7 ans"],
+    "correctAnswer": 2,
+    "context": "Les députés européens sont élus pour 5 ans."
+  },
+  {
+    "id": 80,
+    "chapter": "Système institutionnel",
+    "question": "Quel pays est fondateur de l'UE ?",
+    "options": ["Pologne", "Espagne", "France", "Grèce"],
+    "correctAnswer": 2,
+    "context": "La France fait partie des 6 pays créateurs (traité de Rome 1957)."
+  },
+  {
+    "id": 81,
+    "chapter": "Système institutionnel",
+    "question": "Quelle est la monnaie utilisée en France ?",
+    "options": ["Le Franc", "L'Euro", "Le Dollar", "La Livre"],
+    "correctAnswer": 1,
+    "context": "L'euro est la monnaie unique de la zone euro depuis 2002."
+  },
+  {
+    "id": 82,
+    "chapter": "Système institutionnel",
+    "question": "Qui élit les députés européens ?",
+    "options": ["Les gouvernements", "Les citoyens de l'UE", "Les rois", "L'ONU"],
+    "correctAnswer": 1,
+    "context": "Il s'agit d'un suffrage universel direct."
+  },
+  {
+    "id": 83,
+    "chapter": "Système institutionnel",
+    "question": "Quand célèbre-t-on la journée de l'Europe ?",
+    "options": ["1er janvier", "1er mai", "9 mai", "14 juillet"],
+    "correctAnswer": 2,
+    "context": "Le 9 mai commémore la déclaration Schuman de 1950."
+  },
+  {
+    "id": 84,
+    "chapter": "Droits et devoirs",
+    "question": "Nom de la Constitution actuelle ?",
+    "options": ["Constitution de 1789", "Constitution de 1946", "Constitution de 1958", "Charte de 1814"],
+    "correctAnswer": 2,
+    "context": "C'est le texte fondamental de la Ve République."
+  },
+  {
+    "id": 85,
+    "chapter": "Droits et devoirs",
+    "question": "Texte énonçant droits et devoirs en France ?",
+    "options": ["Code de la route", "Constitution", "Charte des droits et devoirs du citoyen", "Journal officiel"],
+    "correctAnswer": 2,
+    "context": "Elle rappelle les principes que chaque citoyen doit respecter."
+  },
+  {
+    "id": 86,
+    "chapter": "Droits et devoirs",
+    "question": "Concernant les droits individuels :",
+    "options": ["Ils sont illimités", "Ils s'arrêtent là où commencent ceux d'autrui", "Ils n'existent pas", "Ils sont réservés aux riches"],
+    "correctAnswer": 1,
+    "context": "C'est la définition républicaine de la liberté."
+  },
+  {
+    "id": 87,
+    "chapter": "Droits et devoirs",
+    "question": "Année de la Déclaration des droits de l'homme ?",
+    "options": ["1789", "1804", "1905", "1945"],
+    "correctAnswer": 0,
+    "context": "La DDHC est le texte pilier de la Révolution française."
+  },
+  {
+    "id": 88,
+    "chapter": "Droits et devoirs",
+    "question": "Lequel est un droit fondamental ?",
+    "options": ["Droit de polluer", "Droit à l'éducation", "Droit de voler", "Droit de ne pas travailler"],
+    "correctAnswer": 1,
+    "context": "L'accès au savoir est garanti par la République."
+  },
+  {
+    "id": 89,
+    "chapter": "Droits et devoirs",
+    "question": "Lequel garantit les libertés en France ?",
+    "options": ["Le Code civil", "La Constitution", "Le règlement intérieur des lycées", "Le dictionnaire"],
+    "correctAnswer": 1,
+    "context": "La Constitution protège les libertés fondamentales."
+  },
+  {
+    "id": 90,
+    "chapter": "Droits et devoirs",
+    "question": "Qu’est-ce que la liberté d’expression ?",
+    "options": ["Droit de tout casser", "Droit d'exprimer ses idées", "Droit d'insulter", "Droit de mentir au juge"],
+    "correctAnswer": 1,
+    "context": "C'est la liberté de pensée et de parole."
+  },
+  {
+    "id": 91,
+    "chapter": "Droits et devoirs",
+    "question": "Droit de se défendre devant la justice ?",
+    "options": ["Droit de vote", "Droit à un procès équitable", "Droit de grève", "Droit d'asile"],
+    "correctAnswer": 1,
+    "context": "Chacun a droit à un avocat et à être entendu par un juge."
+  },
+  {
+    "id": 92,
+    "chapter": "Droits et devoirs",
+    "question": "Texte fondateur des droits et devoirs ?",
+    "options": ["Livre blanc", "Déclaration de 1789", "Code pénal", "Code du travail"],
+    "correctAnswer": 1,
+    "context": "La DDHC de 1789 reste la référence suprême."
+  },
+  {
+    "id": 93,
+    "chapter": "Droits et devoirs",
+    "question": "Texte adopté pendant la Révolution ?",
+    "options": ["Traité de Rome", "Déclaration des droits de l'homme", "Plan Marshall", "Accords d'Évian"],
+    "correctAnswer": 1,
+    "context": "Adopté en août 1789 par l'Assemblée nationale constituante."
+  },
+  {
+    "id": 94,
+    "chapter": "Droits et devoirs",
+    "question": "Liberté de ne pas avoir de religion ?",
+    "options": ["Liberté de culte", "Liberté de conscience", "Liberté de réunion", "Liberté de la presse"],
+    "correctAnswer": 1,
+    "context": "Elle inclut le droit d'être athée ou agnostique."
+  },
+  {
+    "id": 95,
+    "chapter": "Droits et devoirs",
+    "question": "Une femme peut avorter :",
+    "options": ["Jamais", "C'est un droit garanti par la loi", "Seulement avec l'accord de son mari", "C'est passible d'amende"],
+    "correctAnswer": 1,
+    "context": "L'IVG est une liberté fondamentale protégée par la loi Veil."
+  },
+  {
+    "id": 96,
+    "chapter": "Droits et devoirs",
+    "question": "Est-il toujours possible de divorcer ?",
+    "options": ["Non", "Oui", "Seulement si le maire est d'accord", "Seulement après 10 ans"],
+    "correctAnswer": 1,
+    "context": "Le divorce est possible par consentement mutuel ou par décision judiciaire."
+  },
+  {
+    "id": 97,
+    "chapter": "Droits et devoirs",
+    "question": "La peine de mort est :",
+    "options": ["Pratiquée en France", "Abolie", "Facultative", "Uniquement militaire"],
+    "correctAnswer": 1,
+    "context": "Elle a été supprimée en 1981 sous François Mitterrand."
+  },
+  {
+    "id": 98,
+    "chapter": "Droits et devoirs",
+    "question": "Limites aux libertés individuelles :",
+    "options": ["Il n'y en a pas", "Elles sont définies par la loi", "Elles changent tous les jours", "Elles dépendent de la ville"],
+    "correctAnswer": 1,
+    "context": "La loi encadre les libertés pour assurer la sécurité de tous."
+  },
+  {
+    "id": 99,
+    "chapter": "Droits et devoirs",
+    "question": "Mariage polygame en France ?",
+    "options": ["C'est autorisé", "C'est illégal", "C'est autorisé pour les étrangers", "C'est possible avec dérogation"],
+    "correctAnswer": 1,
+    "context": "La loi française n'autorise que la monogamie."
+  },
+  {
+    "id": 100,
+    "chapter": "Droits et devoirs",
+    "question": "Faut-il réduire ses déchets ?",
+    "options": ["Non", "Oui, c'est un devoir civique", "Seulement si on est payé", "Uniquement à la campagne"],
+    "correctAnswer": 1,
+    "context": "Protéger l'environnement est une responsabilité collective."
+  },
+  {
+    "id": 101,
+    "chapter": "Droits et devoirs",
+    "question": "Jeter une bouteille dans la rue :",
+    "options": ["C'est autorisé", "C'est une infraction passible d'amende", "C'est recommandé", "C'est bien"],
+    "correctAnswer": 1,
+    "context": "Le dépôt de déchets sur la voie publique est interdit."
+  },
+  {
+    "id": 102,
+    "chapter": "Droits et devoirs",
+    "question": "Pourquoi limiter les libertés ?",
+    "options": ["Pour punir", "Pour protéger l'ordre public et autrui", "Pour faire plaisir au gouvernement", "Pour s'amuser"],
+    "correctAnswer": 1,
+    "context": "L'ordre public garantit la coexistence des libertés de chacun."
+  },
+  {
+    "id": 103,
+    "chapter": "Droits et devoirs",
+    "question": "Que doit faire une personne en cas d’accident ?",
+    "options": ["S'enfuir", "Alerter les secours", "Prendre une vidéo", "Rien"],
+    "correctAnswer": 1,
+    "context": "La non-assistance à personne en danger est punie pénalement."
+  },
+  {
+    "id": 104,
+    "chapter": "Droits et devoirs",
+    "question": "Que permet la citoyenneté française ?",
+    "options": ["Ne plus travailler", "Voter et être éligible", "Avoir tout gratuit", "Ne plus payer d'amendes"],
+    "correctAnswer": 1,
+    "context": "Elle donne des droits politiques (voter, se présenter)."
+  },
+  {
+    "id": 105,
+    "chapter": "Droits et devoirs",
+    "question": "Si on ne respecte pas la loi ?",
+    "options": ["Rien", "On risque une amende ou une peine de prison", "On est félicité", "On quitte le pays"],
+    "correctAnswer": 1,
+    "context": "La loi prévoit des sanctions pour les infractions commises."
+  },
+  {
+    "id": 106,
+    "chapter": "Droits et devoirs",
+    "question": "Rôle de la gendarmerie ?",
+    "options": ["Voter la loi", "Maintenir l'ordre et la sécurité", "Faire la classe", "Gérer les hôpitaux"],
+    "correctAnswer": 1,
+    "context": "Force de police à statut militaire agissant surtout en zone rurale."
+  },
+  {
+    "id": 107,
+    "chapter": "Droits et devoirs",
+    "question": "Rôle de la police ?",
+    "options": ["Écrire les journaux", "Veiller à la sécurité et à l'ordre public", "Juger les coupables", "Vendre des timbres"],
+    "correctAnswer": 1,
+    "context": "Les forces de l'ordre protègent les personnes et les biens."
+  },
+  {
+    "id": 108,
+    "chapter": "Droits et devoirs",
+    "question": "Qu'est-ce qu'une infraction ?",
+    "options": ["Un acte autorisé", "Une violation de la loi", "Une bonne action", "Un diplôme"],
+    "correctAnswer": 1,
+    "context": "C'est un comportement puni par le Code pénal."
+  },
+  {
+    "id": 109,
+    "chapter": "Droits et devoirs",
+    "question": "Comment réduire ses déchets ?",
+    "options": ["Tout brûler", "Trier et recycler", "Les mettre dans la rivière", "Acheter plus d'emballages"],
+    "correctAnswer": 1,
+    "context": "Le tri sélectif est essentiel à la préservation des ressources."
+  },
+  {
+    "id": 110,
+    "chapter": "Droits et devoirs",
+    "question": "Machine à laver sur le trottoir ?",
+    "options": ["Autorisé", "Interdit (dépôt sauvage)", "Obligatoire", "Pratique"],
+    "correctAnswer": 1,
+    "context": "Il faut appeler les encombrants ou aller à la déchetterie."
+  },
+  {
+    "id": 111,
+    "chapter": "Droits et devoirs",
+    "question": "Traite des êtres humains ?",
+    "options": ["Commerce légal", "Exploitation forcée de personnes", "Tourisme", "Recrutement sportif"],
+    "correctAnswer": 1,
+    "context": "C'est un crime grave d'asservir des individus."
+  },
+  {
+    "id": 112,
+    "chapter": "Droits et devoirs",
+    "question": "Que doit faire une victime de violences ?",
+    "options": ["Se taire", "Porter plainte", "Se venger seule", "Rien"],
+    "correctAnswer": 1,
+    "context": "Porter plainte permet de déclencher une enquête et d'être protégée."
+  },
+  {
+    "id": 113,
+    "chapter": "Droits et devoirs",
+    "question": "Quelle est l'infraction la plus grave ?",
+    "options": ["Contravention", "Délit", "Crime", "Faute simple"],
+    "correctAnswer": 2,
+    "context": "Les crimes sont jugés par la Cour d'assises."
+  },
+  {
+    "id": 114,
+    "chapter": "Histoire et Culture",
+    "question": "Année début Révolution française ?",
+    "options": ["1515", "1789", "1804", "1914"],
+    "correctAnswer": 1,
+    "context": "La prise de la Bastille a lieu le 14 juillet 1789."
+  },
+  {
+    "id": 115,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était Napoléon Ier ?",
+    "options": ["Un roi", "Un empereur", "Un président", "Un moine"],
+    "correctAnswer": 1,
+    "context": "Il a régné de 1804 à 1814 (puis 1815)."
+  },
+  {
+    "id": 116,
+    "chapter": "Histoire et Culture",
+    "question": "Personnage historique français ?",
+    "options": ["Léonard de Vinci", "Jeanne d'Arc", "Christophe Colomb", "Albert Einstein"],
+    "correctAnswer": 1,
+    "context": "Héroïne française de la guerre de Cent Ans."
+  },
+  {
+    "id": 117,
+    "chapter": "Histoire et Culture",
+    "question": "Dans quelle République est-on ?",
+    "options": ["IIIe", "IVe", "Ve", "VIe"],
+    "correctAnswer": 2,
+    "context": "La Ve République a été fondée en 1958."
+  },
+  {
+    "id": 118,
+    "chapter": "Histoire et Culture",
+    "question": "Qu'est-ce que la Shoah ?",
+    "options": ["Une fête", "Un génocide", "Une loi", "Un fleuve"],
+    "correctAnswer": 1,
+    "context": "L'extermination des Juifs par les nazis (Holocauste)."
+  },
+  {
+    "id": 119,
+    "chapter": "Histoire et Culture",
+    "question": "Colonisé par la France ?",
+    "options": ["Algérie", "Brésil", "Russie", "Suède"],
+    "correctAnswer": 0,
+    "context": "La France a eu un vaste empire colonial (Afrique, Asie)."
+  },
+  {
+    "id": 120,
+    "chapter": "Histoire et Culture",
+    "question": "École gratuite, laïque, obligatoire ?",
+    "options": ["Napoléon", "Jules Ferry", "De Gaulle", "Victor Hugo"],
+    "correctAnswer": 1,
+    "context": "Lois scolaires de 1881-1882."
+  },
+  {
+    "id": 121,
+    "chapter": "Histoire et Culture",
+    "question": "Dates Seconde Guerre mondiale ?",
+    "options": ["1914-1918", "1939-1945", "1945-1950", "1960-1965"],
+    "correctAnswer": 1,
+    "context": "Conflit mondial majeur impliquant la Résistance française."
+  },
+  {
+    "id": 122,
+    "chapter": "Histoire et Culture",
+    "question": "Dates Première Guerre mondiale ?",
+    "options": ["1870-1871", "1914-1918", "1939-1945", "1990-1995"],
+    "correctAnswer": 1,
+    "context": "Appelée aussi la 'Grande Guerre'."
+  },
+  {
+    "id": 123,
+    "chapter": "Histoire et Culture",
+    "question": "Année création de la CEE ?",
+    "options": ["1945", "1957", "1992", "2000"],
+    "correctAnswer": 1,
+    "context": "Traité de Rome fondant l'ancêtre de l'UE."
+  },
+  {
+    "id": 124,
+    "chapter": "Histoire et Culture",
+    "question": "11 novembre jour férié ?",
+    "options": ["Fin Seconde Guerre", "Armistice Première Guerre mondiale", "Fête du travail", "Assomption"],
+    "correctAnswer": 1,
+    "context": "Signature de l'Armistice de 1918."
+  },
+  {
+    "id": 125,
+    "chapter": "Histoire et Culture",
+    "question": "1er Président Ve République ?",
+    "options": ["Pompidou", "De Gaulle", "Mitterrand", "Chirac"],
+    "correctAnswer": 1,
+    "context": "Charles de Gaulle, élu par un collège en 1958."
+  },
+  {
+    "id": 126,
+    "chapter": "Histoire et Culture",
+    "question": "Esclavage aboli définitivement ?",
+    "options": ["1789", "1804", "1848", "1905"],
+    "correctAnswer": 2,
+    "context": "Abolition portée par Victor Schœlcher."
+  },
+  {
+    "id": 127,
+    "chapter": "Histoire et Culture",
+    "question": "École publique gratuite ?",
+    "options": ["XVIIIe siècle", "XIXe siècle (lois Ferry)", "XXe siècle", "XXIe siècle"],
+    "correctAnswer": 1,
+    "context": "Garantit l'accès égal au savoir pour tous."
+  },
+  {
+    "id": 128,
+    "chapter": "Histoire et Culture",
+    "question": "Combien de républiques ?",
+    "options": ["1", "3", "5", "10"],
+    "correctAnswer": 2,
+    "context": "La France a connu cinq régimes républicains."
+  },
+  {
+    "id": 129,
+    "chapter": "Histoire et Culture",
+    "question": "Roi au moment de la Révolution ?",
+    "options": ["Louis XIV", "Louis XVI", "Henri IV", "François Ier"],
+    "correctAnswer": 1,
+    "context": "Louis XVI a été guillotiné en 1793."
+  },
+  {
+    "id": 130,
+    "chapter": "Histoire et Culture",
+    "question": "Qui a fondé la Ve République ?",
+    "options": ["Napoléon", "Charles de Gaulle", "Jean Jaurès", "Léon Blum"],
+    "correctAnswer": 1,
+    "context": "Instaurée après la crise d'Algérie en 1958."
+  },
+  {
+    "id": 131,
+    "chapter": "Histoire et Culture",
+    "question": "Que célèbre-t-on le 14 juillet ?",
+    "options": ["Fête du travail", "Fête nationale", "Victoire de 1945", "Noël"],
+    "correctAnswer": 1,
+    "context": "Référence à 1789 (Bastille) et 1790 (Fédération)."
+  },
+  {
+    "id": 132,
+    "chapter": "Histoire et Culture",
+    "question": "Guerre entre 1914 et 1918 ?",
+    "options": ["Guerre froide", "Première Guerre mondiale", "Guerre de Cent Ans", "Guerre de 70"],
+    "correctAnswer": 1,
+    "context": "Conflit marqué par les tranchées."
+  },
+  {
+    "id": 133,
+    "chapter": "Histoire et Culture",
+    "question": "Importance de 1958 ?",
+    "options": ["Fin de la royauté", "Adoption de la Constitution actuelle", "Découverte de l'Amérique", "Création de l'Euro"],
+    "correctAnswer": 1,
+    "context": "Début de la stabilité institutionnelle moderne."
+  },
+  {
+    "id": 134,
+    "chapter": "Histoire et Culture",
+    "question": "Fleuve coulant en France ?",
+    "options": ["Amazone", "Nil", "Seine", "Mississippi"],
+    "correctAnswer": 2,
+    "context": "La Seine traverse Rouen et Paris."
+  },
+  {
+    "id": 135,
+    "chapter": "Histoire et Culture",
+    "question": "Ville française ?",
+    "options": ["Madrid", "Lyon", "Genève", "Bruxelles"],
+    "correctAnswer": 1,
+    "context": "Lyon est la capitale de la région Auvergne-Rhône-Alpes."
+  },
+  {
+    "id": 136,
+    "chapter": "Histoire et Culture",
+    "question": "Océan côte ouest française ?",
+    "options": ["Pacifique", "Indien", "Atlantique", "Arctique"],
+    "correctAnswer": 2,
+    "context": "L'Atlantique borde la Bretagne et l'Aquitaine."
+  },
+  {
+    "id": 137,
+    "chapter": "Histoire et Culture",
+    "question": "Qu'est-ce que Paris ?",
+    "options": ["Un pays", "La capitale de la France", "Une île", "Un fleuve"],
+    "correctAnswer": 1,
+    "context": "Centre politique et culturel du pays."
+  },
+  {
+    "id": 138,
+    "chapter": "Histoire et Culture",
+    "question": "Capitale de la France ?",
+    "options": ["Marseille", "Bordeaux", "Paris", "Lille"],
+    "correctAnswer": 2,
+    "context": "Siège du gouvernement français."
+  },
+  {
+    "id": 139,
+    "chapter": "Histoire et Culture",
+    "question": "Continent France métropolitaine ?",
+    "options": ["Afrique", "Asie", "Europe", "Amérique"],
+    "correctAnswer": 2,
+    "context": "Située à l'extrémité occidentale de l'Europe."
+  },
+  {
+    "id": 140,
+    "chapter": "Histoire et Culture",
+    "question": "Île département d'outre-mer ?",
+    "options": ["Corse", "La Réunion", "Île de Ré", "Belle-Île"],
+    "correctAnswer": 1,
+    "context": "La Réunion est située dans l'océan Indien."
+  },
+  {
+    "id": 141,
+    "chapter": "Histoire et Culture",
+    "question": "Régions en France métropolitaine ?",
+    "options": ["5", "13", "22", "50"],
+    "correctAnswer": 1,
+    "context": "Le nombre a été réduit en 2016."
+  },
+  {
+    "id": 142,
+    "chapter": "Histoire et Culture",
+    "question": "Ville port maritime ?",
+    "options": ["Marseille", "Toulouse", "Clermont-Ferrand", "Paris"],
+    "correctAnswer": 0,
+    "context": "Marseille est le premier port français."
+  },
+  {
+    "id": 143,
+    "chapter": "Histoire et Culture",
+    "question": "Mer au sud de la France ?",
+    "options": ["Manche", "Mer du Nord", "Méditerranée", "Mer Rouge"],
+    "correctAnswer": 2,
+    "context": "Borde la Côte d'Azur et le Golfe du Lion."
+  },
+  {
+    "id": 144,
+    "chapter": "Histoire et Culture",
+    "question": "Ville bord de Méditerranée ?",
+    "options": ["Lille", "Nice", "Brest", "Strasbourg"],
+    "correctAnswer": 1,
+    "context": "Nice est célèbre pour sa Promenade des Anglais."
+  },
+  {
+    "id": 145,
+    "chapter": "Histoire et Culture",
+    "question": "Où se situe la Corse ?",
+    "options": ["En mer Méditerranée", "Dans l'Atlantique", "Dans le lac Léman", "Dans la Manche"],
+    "correctAnswer": 0,
+    "context": "L'Île de Beauté est au sud-est de la métropole."
+  },
+  {
+    "id": 146,
+    "chapter": "Histoire et Culture",
+    "question": "Montagnes France / Italie ?",
+    "options": ["Pyrénées", "Vosges", "Alpes", "Jura"],
+    "correctAnswer": 2,
+    "context": "On y trouve le Mont Blanc."
+  },
+  {
+    "id": 147,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était Molière ?",
+    "options": ["Un peintre", "Un dramaturge", "Un général", "Un cuisinier"],
+    "correctAnswer": 1,
+    "context": "Auteur classique (L'Avare, Le Tartuffe)."
+  },
+  {
+    "id": 148,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était Charles Baudelaire ?",
+    "options": ["Un poète", "Un roi", "Un physicien", "Un explorateur"],
+    "correctAnswer": 0,
+    "context": "Auteur des 'Fleurs du Mal'."
+  },
+  {
+    "id": 149,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était George Sand ?",
+    "options": ["Un homme d'État", "Une femme de lettres", "Une chanteuse", "Un sculpteur"],
+    "correctAnswer": 1,
+    "context": "Célèbre pour ses romans et son style de vie indépendant."
+  },
+  {
+    "id": 150,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était Simone de Beauvoir ?",
+    "options": ["Une actrice", "Une écrivaine et philosophe", "Une sainte", "Une pianiste"],
+    "correctAnswer": 1,
+    "context": "Figure majeure du féminisme ('Le Deuxième Sexe')."
+  },
+  {
+    "id": 151,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était Albert Camus ?",
+    "options": ["Un footballeur", "Un écrivain", "Un aviateur", "Un roi"],
+    "correctAnswer": 1,
+    "context": "Prix Nobel de littérature ('L'Étranger')."
+  },
+  {
+    "id": 152,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était Paul Cézanne ?",
+    "options": ["Un chanteur", "Un peintre", "Un inventeur", "Un avocat"],
+    "correctAnswer": 1,
+    "context": "Peintre impressionniste et post-impressionniste."
+  },
+  {
+    "id": 153,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était Marc Chagall ?",
+    "options": ["Un physicien", "Un peintre", "Un boxeur", "Un espion"],
+    "correctAnswer": 1,
+    "context": "Connu pour ses œuvres oniriques colorées."
+  },
+  {
+    "id": 154,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était Joséphine Baker ?",
+    "options": ["Une pâtissière", "Une artiste et résistante", "Une reine d'Angleterre", "Une avocate"],
+    "correctAnswer": 1,
+    "context": "Entrée au Panthéon en 2021."
+  },
+  {
+    "id": 155,
+    "chapter": "Histoire et Culture",
+    "question": "Chanteuse française célèbre ?",
+    "options": ["Édith Piaf", "Madonna", "Shakira", "Beyoncé"],
+    "correctAnswer": 0,
+    "context": "Interprète de 'La Vie en Rose'."
+  },
+  {
+    "id": 156,
+    "chapter": "Histoire et Culture",
+    "question": "Qu'est-ce que le Louvre ?",
+    "options": ["Une gare", "Un musée d'art", "Un opéra", "Un stade"],
+    "correctAnswer": 1,
+    "context": "Ancien palais royal devenu musée."
+  },
+  {
+    "id": 157,
+    "chapter": "Histoire et Culture",
+    "question": "Qui était Jean de la Fontaine ?",
+    "options": ["Un explorateur", "Un fabuliste", "Un mathématicien", "Un pâtissier"],
+    "correctAnswer": 1,
+    "context": "Célèbre pour ses fables animalières."
+  },
+  {
+    "id": 158,
+    "chapter": "Histoire et Culture",
+    "question": "Écrivain français ?",
+    "options": ["Shakespeare", "Victor Hugo", "Mark Twain", "Dante"],
+    "correctAnswer": 1,
+    "context": "Auteur de 'Les Misérables'."
+  },
+  {
+    "id": 159,
+    "chapter": "Histoire et Culture",
+    "question": "Où se trouve la tour Eiffel ?",
+    "options": ["Lyon", "Marseille", "Paris", "Bordeaux"],
+    "correctAnswer": 2,
+    "context": "Symbole de la France, construite en 1889."
+  },
+  {
+    "id": 160,
+    "chapter": "Histoire et Culture",
+    "question": "Quand célèbre-t-on Noël ?",
+    "options": ["1er janvier", "14 juillet", "25 décembre", "1er mai"],
+    "correctAnswer": 2,
+    "context": "Fête de fin d'année."
+  },
+  {
+    "id": 161,
+    "chapter": "Société",
+    "question": "Numéro d'urgence SAMU ?",
+    "options": ["15", "17", "18", "112"],
+    "correctAnswer": 0,
+    "context": "Pour les urgences médicales graves."
+  },
+  {
+    "id": 162,
+    "chapter": "Société",
+    "question": "Numéro d'urgence pompiers ?",
+    "options": ["15", "17", "18", "112"],
+    "correctAnswer": 2,
+    "context": "Pour les incendies et secours aux personnes."
+  },
+  {
+    "id": 163,
+    "chapter": "Société",
+    "question": "Après permis, pour conduire ?",
+    "options": ["Avoir une voiture rouge", "Assurer le véhicule", "Être seul", "Avoir un chapeau"],
+    "correctAnswer": 1,
+    "context": "L'assurance est obligatoire pour circuler."
+  },
+  {
+    "id": 164,
+    "chapter": "Société",
+    "question": "Mariage reconnu ?",
+    "options": ["Mariage à l'église", "Mariage civil à la mairie", "Promesse verbale", "Mariage par internet"],
+    "correctAnswer": 1,
+    "context": "Seul l'acte civil devant le maire est légal."
+  },
+  {
+    "id": 165,
+    "chapter": "Société",
+    "question": "Déclaration enfant mairie ?",
+    "options": ["Le mois suivant", "Dans les 5 jours suivant la naissance", "Le jour des 1 an", "Jamais"],
+    "correctAnswer": 1,
+    "context": "Indispensable pour établir l'état civil."
+  },
+  {
+    "id": 166,
+    "chapter": "Société",
+    "question": "Travail non déclaré ?",
+    "options": ["C'est pratique", "C'est illégal", "C'est recommandé", "C'est bien payé"],
+    "correctAnswer": 1,
+    "context": "Appelé aussi 'travail au noir', c'est un délit."
+  },
+  {
+    "id": 167,
+    "chapter": "Société",
+    "question": "Pour fixer un salaire ?",
+    "options": ["Demander aux voisins", "Respecter le SMIC", "Tirer au sort", "Ne pas payer"],
+    "correctAnswer": 1,
+    "context": "Le salaire minimum est fixé par l'État."
+  },
+  {
+    "id": 168,
+    "chapter": "Société",
+    "question": "Qu'est-ce que le SMIC ?",
+    "options": ["Un vêtement", "Salaire Minimum de Croissance", "Un type de voiture", "Une fête"],
+    "correctAnswer": 1,
+    "context": "Le plancher légal de rémunération horaire."
+  },
+  {
+    "id": 169,
+    "chapter": "Société",
+    "question": "Chercher un emploi ?",
+    "options": ["Attendre chez soi", "S'inscrire à France Travail", "Faire la fête", "Dormir"],
+    "correctAnswer": 1,
+    "context": "France Travail accompagne les demandeurs d'emploi."
+  },
+  {
+    "id": 170,
+    "chapter": "Société",
+    "question": "Durée légale travail / semaine ?",
+    "options": ["20h", "35h", "48h", "60h"],
+    "correctAnswer": 1,
+    "context": "C'est la durée de référence en France."
+  },
+  {
+    "id": 171,
+    "chapter": "Société",
+    "question": "Qui est aidé par France Travail ?",
+    "options": ["Les retraités", "Les demandeurs d'emploi", "Les enfants", "Les touristes"],
+    "correctAnswer": 1,
+    "context": "Mission de service public pour l'emploi."
+  },
+  {
+    "id": 172,
+    "chapter": "Société",
+    "question": "Étranger régulier et entreprise ?",
+    "options": ["C'est interdit", "Oui, il peut créer son entreprise", "Seulement avec un associé français", "C'est payant"],
+    "correctAnswer": 1,
+    "context": "L'entrepreneuriat est ouvert aux résidents réguliers."
+  },
+  {
+    "id": 173,
+    "chapter": "Société",
+    "question": "Femme et entreprise ?",
+    "options": ["Interdit", "Oui, librement", "Seulement avec l'accord du mari", "Sous condition d'âge"],
+    "correctAnswer": 1,
+    "context": "Égalité parfaite pour la création d'activité."
+  },
+  {
+    "id": 174,
+    "chapter": "Société",
+    "question": "Âge mineur travail ?",
+    "options": ["10 ans", "14-16 ans (encadré)", "18 ans minimum", "Jamais"],
+    "correctAnswer": 1,
+    "context": "Le travail est réglementé avant 18 ans."
+  },
+  {
+    "id": 175,
+    "chapter": "Société",
+    "question": "Remboursement frais santé ?",
+    "options": ["La mairie", "La CPAM (Assurance Maladie)", "L'école", "Le commissariat"],
+    "correctAnswer": 1,
+    "context": "La Sécurité sociale gère la prise en charge."
+  },
+  {
+    "id": 176,
+    "chapter": "Société",
+    "question": "Qu’est-ce qu’un numéro d’urgence ?",
+    "options": ["Un numéro payant", "Un numéro gratuit pour les secours", "Un code secret", "Un numéro de jeu"],
+    "correctAnswer": 1,
+    "context": "Disponible 24h/24 pour la sécurité."
+  },
+  {
+    "id": 177,
+    "chapter": "Société",
+    "question": "Accès aux soins :",
+    "options": ["Réservé aux riches", "Droit pour tous résidents stables", "Uniquement les urgences", "Payant d'avance"],
+    "correctAnswer": 1,
+    "context": "La protection universelle garantit l'accès."
+  },
+  {
+    "id": 178,
+    "chapter": "Société",
+    "question": "Santé non urgent, s’adresser à :",
+    "options": ["L'hôpital", "Le médecin traitant", "La pharmacie seule", "Les pompiers"],
+    "correctAnswer": 1,
+    "context": "Le généraliste coordonne le parcours de soins."
+  },
+  {
+    "id": 179,
+    "chapter": "Société",
+    "question": "Rôle médecin traitant ?",
+    "options": ["Gérer l'argent", "Suivre et orienter le patient", "Vendre des médicaments", "Être chirurgien"],
+    "correctAnswer": 1,
+    "context": "C'est l'interlocuteur de confiance du patient."
+  },
+  {
+    "id": 180,
+    "chapter": "Société",
+    "question": "Quand aller aux urgences ?",
+    "options": ["Pour un rhume", "Cas grave ou vital", "Pour demander l'heure", "Pour un vaccin"],
+    "correctAnswer": 1,
+    "context": "L'hôpital est réservé aux situations graves."
+  },
+  {
+    "id": 181,
+    "chapter": "Société",
+    "question": "Vaccinations obligatoires ?",
+    "options": ["Pour faire joli", "Protéger soi et les autres", "Pour voyager uniquement", "C'est une option"],
+    "correctAnswer": 1,
+    "context": "Enjeu de santé publique majeure."
+  },
+  {
+    "id": 182,
+    "chapter": "Société",
+    "question": "À quoi sert la carte Vitale ?",
+    "options": ["Payer au supermarché", "Preuve de droits à l'assurance maladie", "Ouvrir sa porte", "Prendre le train"],
+    "correctAnswer": 1,
+    "context": "Permet la télétransmission des remboursements."
+  },
+  {
+    "id": 183,
+    "chapter": "Société",
+    "question": "Mutuelle santé ?",
+    "options": ["Obligatoire pour voter", "Complète les remboursements Sécu", "Remplace le médecin", "Sert à épargner"],
+    "correctAnswer": 1,
+    "context": "Couvre le reste à charge (ticket modérateur)."
+  },
+  {
+    "id": 184,
+    "chapter": "Société",
+    "question": "École obligatoire jusqu'à ?",
+    "options": ["12 ans", "16 ans", "18 ans", "21 ans"],
+    "correctAnswer": 1,
+    "context": "L'instruction est un droit jusqu'à 16 ans révolus."
+  },
+  {
+    "id": 185,
+    "chapter": "Société",
+    "question": "L'autorité parentale ?",
+    "options": ["Droit de tout faire", "Protéger et éduquer l'enfant", "Posséder l'enfant", "Ignorer l'enfant"],
+    "correctAnswer": 1,
+    "context": "Ensemble de droits et devoirs pour l'intérêt de l'enfant."
+  },
+  {
+    "id": 186,
+    "chapter": "Société",
+    "question": "École obligatoire pour ?",
+    "options": ["Seulement les Français", "Tous les enfants résidant en France", "Seulement les garçons", "Seulement en ville"],
+    "correctAnswer": 1,
+    "context": "Indépendant de la nationalité."
+  },
+  {
+    "id": 187,
+    "chapter": "Société",
+    "question": "Diplôme fin de lycée ?",
+    "options": ["Brevet", "Baccalauréat", "Licence", "Master"],
+    "correctAnswer": 1,
+    "context": "Sésame pour l'enseignement supérieur."
+  },
+  {
+    "id": 188,
+    "chapter": "Société",
+    "question": "Établissements après primaire ?",
+    "options": ["Université", "Collège puis Lycée", "Travail direct", "École maternelle"],
+    "correctAnswer": 1,
+    "context": "Parcours classique du secondaire."
+  },
+  {
+    "id": 189,
+    "chapter": "Société",
+    "question": "École obligatoire ?",
+    "options": ["De 3 à 16 ans", "De 6 à 18 ans", "De 0 à 10 ans", "De 5 à 15 ans"],
+    "correctAnswer": 0,
+    "context": "Commence dès la maternelle."
+  },
+  {
+    "id": 190,
+    "chapter": "Société",
+    "question": "Enfant inscrit à l'école :",
+    "options": ["Vient quand il veut", "Doit être assidu", "Peut dormir en classe", "Ne fait rien"],
+    "correctAnswer": 1,
+    "context": "L'assiduité est une obligation légale."
+  },
+  {
+    "id": 191,
+    "chapter": "Société",
+    "question": "Enfants ne parlant pas français :",
+    "options": ["Interdits d'école", "Accueillis en classes UPE2A", "Doivent payer plus", "Sont renvoyés"],
+    "correctAnswer": 1,
+    "context": "Soutien linguistique pour l'intégration."
+  }
+]
