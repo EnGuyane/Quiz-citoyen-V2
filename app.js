@@ -19,14 +19,14 @@ if ('serviceWorker' in navigator) {
 }
 
 async function initQuiz() {
-    try {
-        const response = await fetch('questions.json');
-        questions = await response.json();
-        // Mélanger les questions si besoin : questions.sort(() => Math.random() - 0.5);
+    const response = await fetch('questions.json');
+    questions = await response.json();
+    
+    document.getElementById('start-btn').onclick = () => {
+        document.getElementById('welcome-screen').classList.add('hidden');
+        document.getElementById('quiz-content').classList.remove('hidden');
         showQuestion();
-    } catch (error) {
-        questionText.innerText = "Erreur de chargement des questions.";
-    }
+    };
 }
 
 function sstartBtn.onclick = () => {
