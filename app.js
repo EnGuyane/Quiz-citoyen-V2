@@ -2,98 +2,65 @@ let questions = [];
 let currentIndex = 0;
 let score = 0;
 
-const questionText = document.getElementById('question-text');
-const optionsContainer = document.getElementById('options-container');
-const chapterName = document.getElementById('chapter-name');
-const feedback = document.getElementById('feedback');
-const nextBtn = document.getElementById('next-btn');
-const progressBar = document.getElementById('progress-bar');
-const stats = document.getElementById('stats');
-const startBtn = document.getElementById('start-btn');
-const welcomeScreen = document.getElementById('welcome-screen');
-const quizContent = document.getElementById('quiz-content');
-
-// Enregistrement du Service Worker pour le mode PWA
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js');
-}
-
 async function initQuiz() {
     try {
         const response = await fetch('questions.json');
         questions = await response.json();
         
-        // Gestion du bouton de démarrage
+        // ATTENTE DU CLIC SUR LE BOUTON
         document.getElementById('start-btn').onclick = () => {
             document.getElementById('welcome-screen').classList.add('hidden');
             document.getElementById('quiz-content').classList.remove('hidden');
-            showQuestion(); // On lance la première question seulement ici
+            showQuestion();
         };
     } catch (error) {
         document.getElementById('question-text').innerText = "Erreur de chargement.";
     }
 }
 
-function sstartBtn.onclick = () => {
-            welcomeScreen.classList.add('hidden');
-            quizContent.classList.remove('hidden');
-            showQuestion(); {
+function showQuestion() {
     const q = questions[currentIndex];
-    chapterName.innerText = q.chapter;
-    questionText.innerText = q.question;
-    feedback.classList.add('hidden');
-    nextBtn.classList.add('hidden');
-    optionsContainer.innerHTML = '';
+    document.getElementById('chapter-name').innerText = q.chapter;
+    document.getElementById('question-text').innerText = q.question;
+    document.getElementById('feedback').classList.add('hidden');
+    document.getElementById('next-btn').classList.add('hidden');
+    
+    const container = document.getElementById('options-container');
+    container.innerHTML = '';
 
     q.options.forEach((opt, index) => {
         const btn = document.createElement('button');
-        btn.classList.add('option');
+        btn.className = 'option';
         btn.innerText = opt;
         btn.onclick = () => checkAnswer(index, q.correctAnswer, q.context);
-        optionsContainer.appendChild(btn);
+        container.appendChild(btn);
     });
-
     updateUI();
 }
 
 function checkAnswer(selected, correct, context) {
-    const allButtons = document.querySelectorAll('.option');
-    allButtons.forEach(b => b.disabled = true);
-
-    feedback.classList.remove('hidden');
+    const feed = document.getElementById('feedback');
+    feed.classList.remove('hidden');
     if (selected === correct) {
         score++;
-        feedback.className = 'correct';
-        feedback.innerHTML = "<strong>✅ Correct !</strong><br>" + context;
+        feed.className = 'correct';
+        feed.innerHTML = "✅ " + context;
     } else {
-        feedback.className = 'wrong';
-        feedback.innerHTML = "<strong>❌ Erreur.</strong><br>" + context;
+        feed.className = 'wrong';
+        feed.innerHTML = "❌ " + context;
     }
-    nextBtn.classList.remove('hidden');
+    document.getElementById('next-btn').classList.remove('hidden');
 }
-
-nextBtn.onclick = () => {
-    currentIndex++;
-    if (currentIndex < questions.length) {
-        showQuestion();
-    } else {
-        showResult();
-    }
-};
 
 function updateUI() {
-    const percent = ((currentIndex) / questions.length) * 100;
-    progressBar.style.width = percent + "%";
-    stats.innerText = `Question ${currentIndex + 1} / ${questions.length}`;
+    const percent = (currentIndex / questions.length) * 100;
+    document.getElementById('progress-bar').style.width = percent + "%";
 }
 
-function showResult() {
-    questionText.innerText = "Quiz Terminé !";
-    optionsContainer.innerHTML = `<h3>Votre score : ${score} / ${questions.length}</h3>`;
-    chapterName.innerText = "Résultat";
-    nextBtn.innerText = "Recommencer";
-    nextBtn.classList.remove('hidden');
-    nextBtn.onclick = () => location.reload();
-}
+document.getElementById('next-btn').onclick = () => {
+    currentIndex++;
+    if (currentIndex < questions.length) showQuestion();
+    else alert("Fin du quiz ! Score : " + score + "/" + questions.length);
+};
 
 initQuiz();
